@@ -62,12 +62,13 @@ When you run the following command:
 
 Output: 
  ```mathematica
-example.py
-  ├── Module
-  │   ├── Function: example_function()
-  │   │   ├── Assignment: a = 10
-  │   │   ├── If Condition
-  │   │   └── Return: "Greater than 5"
-  └── Import: import os
+xd.py
+└── Module
+    └── Function: example_function()
+        ├── Assignment: a = 10
+        ├── If Condition
+        │   └── Return: 'Greater than 5'
+        └── Else Condition
+            └── Return: 'Less than or equal to 5'
    
    ```
