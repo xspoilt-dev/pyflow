@@ -62,7 +62,7 @@ When you run the following command:
 
 Output: 
  ```mathematica
-xd.py
+example.py
 └── Module
     └── Function: example_function()
         ├── Assignment: a = 10
